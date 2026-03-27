@@ -1,8 +1,8 @@
 # Desenvolvimento Mobile 📱
 
-[cite_start]**Professor(a):** Thyerri Fernandes Mezzari [cite: 3]
-[cite_start]**Disciplina:** Soluções Mobile [cite: 3]
-**Modalidade:** Presencial
+**Professor(a):** Thyerri Fernandes Mezzari  
+**Disciplina:** Desenvolvimento Mobile  
+**Modalidade:** Presencial  
 
 Neste repositório, adicionarei os programas desenvolvidos durante as aulas. 💻📚
 
